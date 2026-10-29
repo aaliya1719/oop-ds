@@ -1,0 +1,9 @@
+PATIENTS
+1001|Aarav Sharma|29|Male|9876543210|12 Lake Road|B+
+1002|Meera Patel|41|Female|9123456780|8 Green Avenue|O+
+1001|ABC|76|Femle|-|-|-
+DOCTORS
+501|Dr. Ananya Rao|Cardiologist|9000011111|Mon-Fri, 09:00-13:00
+502|Dr. Rohan Mehta|General Physician|9000022222|Mon-Sat, 14:00-18:00
+APPOINTMENTS
+1|1001|501|2026-11-05|10:30|Routine heart check-up|Scheduled
